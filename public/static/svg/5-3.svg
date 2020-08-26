@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1000" version="1.1">
+	<text x="700" y="47" font-family="times" font-size="55" font-weight="bold" text-anchor="middle" style="color:#3e576f;fill:#3e576f">Diego Oliveira</text>
+	<g font-size="20">
+	    <text y="75">100%</text>
+	    <text y="145">90%</text>
+	    <text y="215">80%</text>
+	    <text y="285">70%</text>
+	    <text y="355">60%</text>
+	    <text y="425">50%</text>
+	    <text y="495">40%</text>
+	    <text y="565">30%</text>
+	    <text y="635">20%</text>
+	    <text y="705">10%</text>
+	    <text y="775">0%</text>
+	</g>
+	<g stroke="#C0C0C0">
+	    <line x1="50" x2="1750" y1="70" y2="70" style="z-index:-1;opacity: 0.5"/>
+	    <line x1="50" x2="1750" y1="140" y2="140" style="z-index:-1;opacity: 0.5"/>
+	    <line x1="50" x2="1750" y1="210" y2="210" style="z-index:-1;opacity: 0.5"/>
+	    <line x1="50" x2="1750" y1="280" y2="280" style="z-index:-1;opacity: 0.5"/>
+	    <line x1="50" x2="1750" y1="350" y2="350" style="z-index:-1;opacity: 0.5"/>
+	    <line x1="50" x2="1750" y1="420" y2="420" style="z-index:-1;opacity: 0.5"/>
+	    <line x1="50" x2="1750" y1="490" y2="490" style="z-index:-1;opacity: 0.5"/>
+	    <line x1="50" x2="1750" y1="560" y2="560" style="z-index:-1;opacity: 0.5"/>
+	    <line x1="50" x2="1750" y1="630" y2="630" style="z-index:-1;opacity: 0.5"/>
+	    <line x1="50" x2="1750" y1="700" y2="700" style="z-index:-1;opacity: 0.5"/>
+	    <line x1="50" x2="1750" y1="770" y2="770" style="z-index:-1;opacity: 0.5"/>
+	</g>
+	<g fill="#a2be67"><rect width="50" height="504" x="50" y="266" style="z-index:1000;opacity: 0.8"/>
+<rect width="50" height="455" x="250" y="315" style="z-index:1000;opacity: 0.8"/>
+<rect width="50" height="525" x="450" y="245" style="z-index:1000;opacity: 0.8"/>
+<rect width="50" height="525" x="650" y="245" style="z-index:1000;opacity: 0.8"/>
+<rect width="50" height="476" x="850" y="294" style="z-index:1000;opacity: 0.8"/>
+<rect width="50" height="525" x="1050" y="245" style="z-index:1000;opacity: 0.8"/>
+<rect width="50" height="490" x="1250" y="280" style="z-index:1000;opacity: 0.8"/>
+<rect width="50" height="490" x="1450" y="280" style="z-index:1000;opacity: 0.8"/>
+<rect width="50" height="588" x="1650" y="182" style="z-index:1000;opacity: 0.8"/>
+</g>
+<g fill="#C0C0C0">
+<rect width="50" height="196" x="50" y="70" style="z-index:1000;opacity: 0.8" />
+<rect width="50" height="245" x="250" y="70" style="z-index:1000;opacity: 0.8" fill="#F55"/>
+<rect width="50" height="175" x="450" y="70" style="z-index:1000;opacity: 0.8" />
+<rect width="50" height="175" x="650" y="70" style="z-index:1000;opacity: 0.8" />
+<rect width="50" height="224" x="850" y="70" style="z-index:1000;opacity: 0.8" />
+<rect width="50" height="175" x="1050" y="70" style="z-index:1000;opacity: 0.8" />
+<rect width="50" height="210" x="1250" y="70" style="z-index:1000;opacity: 0.8" />
+<rect width="50" height="210" x="1450" y="70" style="z-index:1000;opacity: 0.8" />
+<rect width="50" height="112" x="1650" y="70" style="z-index:1000;opacity: 0.8" />
+</g>
+<g style="font-size:15px;fill:#FFF;font-weight:bold;z-index:1000;">
+<text text-anchor="middle" x="75" y="518">72%</text>
+<text text-anchor="middle" x="75" y="168">28%</text>
+<text text-anchor="middle" x="275" y="543">65%</text>
+<text text-anchor="middle" x="275" y="193">35%</text>
+<text text-anchor="middle" x="475" y="508">75%</text>
+<text text-anchor="middle" x="475" y="158">25%</text>
+<text text-anchor="middle" x="675" y="508">75%</text>
+<text text-anchor="middle" x="675" y="158">25%</text>
+<text text-anchor="middle" x="875" y="532">68%</text>
+<text text-anchor="middle" x="875" y="182">32%</text>
+<text text-anchor="middle" x="1075" y="508">75%</text>
+<text text-anchor="middle" x="1075" y="158">25%</text>
+<text text-anchor="middle" x="1275" y="525">70%</text>
+<text text-anchor="middle" x="1275" y="175">30%</text>
+<text text-anchor="middle" x="1475" y="525">70%</text>
+<text text-anchor="middle" x="1475" y="175">30%</text>
+<text text-anchor="middle" x="1675" y="476">84%</text>
+<text text-anchor="middle" x="1675" y="126">16%</text>
+
+		    </g>
+		    <g style="font-family:'lucida grande', 'lucida sans unicode', verdana, arial, helvetica, sans-serif;font-size:14px;">
+		        <text y="800" text-anchor="middle"><tspan x="100">Focos nas Pessoas</tspan><tspan x="300">Disciplina e Constância</tspan><tspan x="500">Ansiedade</tspan><tspan x="700">Capacidade de dizer não</tspan><tspan x="900">Delegando atividades</tspan><tspan x="1100">Concentração e Controle de Interferências</tspan><tspan x="1300">Propósito e Legado</tspan><tspan x="1500">Pareto 80/20</tspan><tspan x="1700">Pontualidade</tspan></text>
+		    </g>
+		    <rect x="580" y="850" width="40" height="30" fill="#a2be67"/>
+		    <rect x="580" y="900" width="40" height="30" fill="#C0C0C0"/>
+		    <rect x="580" y="950" width="40" height="30" fill="#F55"/>
+		    <g style="font-family:'lucida grande', 'lucida sans unicode', verdana, arial, helvetica, sans-serif;font-size:18px;">
+		        <text x="630" y="870">Grau de Compentência</text>
+		        <text x="630" y="920">Gap a ser desenvolvido</text>
+		        <text x="630" y="970">Área Foco (pontos críticos)</text>
+		    </g>
+		</svg>

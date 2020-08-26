@@ -1,0 +1,53 @@
+.actions, .actions:hover {
+	color: inherit;
+}
+
+.activated {
+	color: #006D00;
+}
+
+.disabled {
+	color: #CE0000;
+}
+
+.center {
+	text-align: center;
+}
+
+.dpl-tbl {
+	display: table;
+	width: 100%;
+}
+
+.dashboard-itens {
+	background: #FFF;
+    box-shadow: inset 0px 0px 0px #1a9698, 0px 5px 0px 0px #1a9698, 0px 10px 5px #999;
+    border: 1px solid;
+    border-color: #23c6c8;
+	cursor: pointer;
+}
+
+.quill-wrapper {
+	background: #FFF;
+	border: 1px solid #ccc;
+	box-shadow: 0px 0px 10px #ccc;
+	width: 100%;
+	margin: 10px auto 5px;
+}
+
+#toolbar-toolbar {
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+}
+
+#toolbar-editor {
+	height: 250px;
+}
+
+textarea[name=corpo] {
+	display: none;
+}
+
+.row-hide {
+	display: none;
+}
